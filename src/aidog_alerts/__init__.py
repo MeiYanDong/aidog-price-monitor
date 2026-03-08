@@ -1,0 +1,1 @@
+"""AIDOG alert prototype."""
